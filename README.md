@@ -1,3 +1,3 @@
-# proiect-colectiv
+# Proiect colectiv
 
-## Gigel
+
