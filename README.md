@@ -1,8 +1,7 @@
 # Proiect colectiv
 
-> **NOTE:**
-> - ANGULAR
-> - .NET
-> - ASP.NET CORE
+>[!NOTE]
+>ANGULAR/n
+>GIGEL
 
 ## Universitatea Babeș-Bolyai din Cluj-Napoca
