@@ -1,1 +1,1 @@
-# proiect-colectiv
+# Proiect colectiv
