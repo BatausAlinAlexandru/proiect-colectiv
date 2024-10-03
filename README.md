@@ -1,7 +1,7 @@
 # Proiect colectiv
 
 >[!NOTE]
->ANGULAR/n
+>ANGULAR<br>
 >GIGEL
 
 ## Universitatea Babeș-Bolyai din Cluj-Napoca
