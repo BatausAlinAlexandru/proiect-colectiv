@@ -6,9 +6,9 @@ namespace Infrastructure.Repository
 {
     internal class UserRepository : IUserRepository
     {
-        private readonly RepositoryContext _repositoryContext;
+        private readonly ApplicationContext _repositoryContext;
 
-        public UserRepository(RepositoryContext repositoryContext)
+        public UserRepository(ApplicationContext repositoryContext)
         {
             _repositoryContext = repositoryContext; ;
         }

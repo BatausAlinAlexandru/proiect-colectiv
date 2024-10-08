@@ -16,9 +16,10 @@ namespace Infrastructure.Migrations
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Role = table.Column<int>(type: "int", nullable: false)
+                    UserAccountCredentials_Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    UserAccountCredentials_Password = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    UserAccountCredentials_Role = table.Column<int>(type: "int", nullable: false),
+                    UserAccountSettings_Test = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

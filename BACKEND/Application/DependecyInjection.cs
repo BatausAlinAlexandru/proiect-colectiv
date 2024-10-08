@@ -1,7 +1,7 @@
 ﻿using Application.Configuration;
 using Application.Interfaces;
 using Application.Services;
-using Domain.Interfaces;
+using Domain.Services;
 using FluentValidation;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;

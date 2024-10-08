@@ -1,11 +1,11 @@
 ﻿using Domain.Entities.User;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.Repository
+namespace Infrastructure
 {
-    internal class RepositoryContext: DbContext
+    internal class ApplicationContext : DbContext
     {
-        public RepositoryContext(DbContextOptions<RepositoryContext> options) : base(options) { }
+        public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options) { }
 
         public DbSet<UserAccount> Users { get; set; }
 

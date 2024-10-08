@@ -1,10 +1,10 @@
 ﻿using Application.DTO;
 using Domain.Entities.User;
-using Domain.Interfaces;
 using Application.Interfaces;
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+using Domain.Services;
 namespace WebAPI.Controllers
 {
     [ApiController]

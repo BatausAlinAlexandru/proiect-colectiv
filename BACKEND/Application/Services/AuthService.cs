@@ -1,7 +1,7 @@
 ﻿using Application.Configuration;
 using Application.DTO;
 using Application.Interfaces;
-using Domain.Interfaces;
+using Domain.Services;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -22,8 +22,8 @@ namespace Application.Services
             var users = await _userService.GetUserAccounts();
 
             var user = users.SingleOrDefault(x =>
-            x.Email.Equals(loginDTO.Email, StringComparison.OrdinalIgnoreCase) &&
-            BCrypt.Net.BCrypt.Verify(loginDTO.Password, x.Password));
+            x.UserAccountCredentials.Email.Equals(loginDTO.Email, StringComparison.OrdinalIgnoreCase) &&
+            BCrypt.Net.BCrypt.Verify(loginDTO.Password, x.UserAccountCredentials.Password));
 
             if (user == null)
                 throw new Exception("CPLM p word ?");

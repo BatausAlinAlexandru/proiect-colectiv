@@ -1,6 +1,7 @@
 ﻿using Domain.Entities.User;
-using Domain.Interfaces;
 using BCrypt.Net;
+using Domain.Repositories;
+using Domain.Services;
 
 namespace Application.Services
 {
@@ -15,7 +16,8 @@ namespace Application.Services
 
         public async Task AddUserCredentials(UserAccount user)
         {
-            user.Password = BCrypt.Net.BCrypt.HashPassword(user.Password);
+            
+            user.UserAccountCredentials.Password = BCrypt.Net.BCrypt.HashPassword(user.UserAccountCredentials.Password);
             await _repository.AddUserAccountAsync(user);
         }
 

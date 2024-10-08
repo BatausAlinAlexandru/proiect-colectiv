@@ -1,6 +1,6 @@
 ﻿using Domain.Entities.User;
 
-namespace Domain.Interfaces
+namespace Domain.Services
 {
     public interface IUserService
     {
