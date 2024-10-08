@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E7A7539-713B-4EC9-B040-F552D38DDE0F}|WebAPI\\WebAPI.csproj|c:\\users\\batau\\desktop\\proiect colectiv\\proiect-colectiv\\backend\\webapi\\extensions\\appfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E7A7539-713B-4EC9-B040-F552D38DDE0F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\appfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,19 +75,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJ0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-08T14:55:50.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "AppFactory.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\WebAPI\\Extensions\\AppFactory.cs",
               "RelativeDocumentMoniker": "WebAPI\\Extensions\\AppFactory.cs",
@@ -104,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
@@ -117,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebAPI",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\WebAPI\\WebAPI.csproj",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
@@ -130,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Aggregates\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Aggregates\\BaseEntity.cs",
@@ -143,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Aggregates\\UserAggregate\\UserAccount.cs",
               "RelativeDocumentMoniker": "Domain\\Aggregates\\UserAggregate\\UserAccount.cs",
@@ -156,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "UserAccountSettings.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Aggregates\\UserAggregate\\UserAccountSettings.cs",
               "RelativeDocumentMoniker": "Domain\\Aggregates\\UserAggregate\\UserAccountSettings.cs",
@@ -169,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "UserAccountCredentials.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Aggregates\\UserAggregate\\UserAccountCredentials.cs",
               "RelativeDocumentMoniker": "Domain\\Aggregates\\UserAggregate\\UserAccountCredentials.cs",
@@ -182,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Application\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\TokenService.cs",
@@ -195,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
@@ -208,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Domain",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -221,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Infrastructure\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApplicationContext.cs",
@@ -234,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
@@ -247,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "20241008131443_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Infrastructure\\Migrations\\20241008131443_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241008131443_InitialCreate.cs",
@@ -260,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
@@ -273,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\IUserService.cs",
