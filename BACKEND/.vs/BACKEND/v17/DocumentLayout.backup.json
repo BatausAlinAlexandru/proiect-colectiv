@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|c:\\users\\batau\\desktop\\proiect colectiv\\proiect-colectiv\\backend\\domain\\entities\\useraggregate\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\useraggregate\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|c:\\users\\batau\\desktop\\proiect colectiv\\proiect-colectiv\\backend\\domain\\entities\\useraggregate\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\useraggregate\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|c:\\users\\batau\\desktop\\proiect colectiv\\proiect-colectiv\\backend\\domain\\entities\\useraggregate\\useraccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\useraggregate\\useraccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|c:\\users\\batau\\desktop\\proiect colectiv\\proiect-colectiv\\backend\\domain\\interfaces\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0A831-8751-41DA-BCFB-BB525CF57F03}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C77F4B7-4E0E-467A-A62D-2C44E797B811}|Application\\Application.csproj|c:\\users\\batau\\desktop\\proiect colectiv\\proiect-colectiv\\backend\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C77F4B7-4E0E-467A-A62D-2C44E797B811}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:32:21.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Entities\\UserAggregate\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserAggregate\\Role.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Entities\\UserAggregate\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserAggregate\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:26:27.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccountSettings.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Entities\\UserAggregate\\UserAccountSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserAggregate\\UserAccountSettings.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Entities\\UserAggregate\\UserAccountSettings.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserAggregate\\UserAccountSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:01:01.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Entities\\UserAggregate\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserAggregate\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Entities\\UserAggregate\\UserAccount.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserAggregate\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:56:47.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Interfaces\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PROIECT COLECTIV\\proiect-colectiv\\BACKEND\\Domain\\Interfaces\\User\\IUserService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:32:25.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
